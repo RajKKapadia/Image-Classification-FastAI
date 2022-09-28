@@ -1,2 +1,2 @@
 # Image Classification using FastAI
-This is a follow up tutorial for my [Youtube Playlist](https://www.youtube.com/playlist?list=PL41E9cd-QxQ7nwsdDY6tpCu64QERYLalL) on `Image Classification - Tensorflow`.
+This is a follow up tutorial for my [Youtube Playlist](https://www.youtube.com/playlist?list=PL41E9cd-QxQ7nwsdDY6tpCu64QERYLalL) on `Image Classification using Tensorflow`.
